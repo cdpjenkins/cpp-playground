@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "boost-algorithm",
+    "fmt",
+    "sdl2",
+    "sdl2-image",
+    "boost-regex"
+  ]
+}
