@@ -7,7 +7,7 @@
 #import <vector>
 using namespace std;
 
-std::vector<int> array_shuffle(std::vector<int> array, int n)
+std::vector<int> array_shuffle(vector<int>& array, int n)
 {
     vector<int> result{};
 
